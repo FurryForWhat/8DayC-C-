@@ -1,0 +1,11 @@
+a= 12, b= 15, c= 28
+
+resultOne= ပကိန်း ကို ဒုကိန်းနဲ့ပေါင်း , 
+resultTwo= ဒုကိန်းနဲ့ တကိန်းမြှောက်တာကို တကိန်းနဲ့ စား (division), 
+resultThree= တကိန်းကို တကိန်းနဲ့စား (modulus) , 
+resultFour= ပကိန်းနဲ့ တကိန်း နှုတ်ထားတာကို ဒုကိန်းနဲ့မြှောက်
+
+finalOne= resultFour နဲ့ resultOne ပေါင်း , 
+finalTwo= resultThree နဲ့  resultTwo မြှောက်, 
+
+finalOne နဲ့ finalTwo ပေါင်း
