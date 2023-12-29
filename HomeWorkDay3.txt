@@ -9,3 +9,52 @@ finalOne= resultFour နဲ့ resultOne ပေါင်း ,
 finalTwo= resultThree နဲ့  resultTwo မြှောက်, 
 
 finalOne နဲ့ finalTwo ပေါင်း
+
+Exe:1 
+Grade Classifier:
+Write a program that takes a student's score as input and outputs their corresponding grade according to the following criteria:
+
+A: 90-100
+B: 80-89
+C: 70-79
+D: 60-69
+F: 0-59
+
+Exe:2
+Leap Year Checker:
+Create a program that prompts the user to enter a year and determines whether it is a leap year or not. A leap year is divisible by 4, but not divisible by 100 unless it is also divisible by 400.
+
+Exe:3
+Temperature Converter:
+Develop a program that converts temperatures between Celsius and Fahrenheit. Ask the user to enter a temperature along with the unit (C or F) and then convert and display the temperature in the other unit.
+
+Exe:4
+Number Sorter:
+Write a program that takes three numbers as input and outputs them in ascending order.
+
+Exe:5
+Triangle Classifier:
+Create a program that takes three sides of a triangle as input and classifies the triangle as equilateral, isosceles, or scalene. Consider the fact that a valid triangle must satisfy the triangle inequality theorem.
+
+Exe:6
+Number Range Checker:
+Prompt the user to enter a number and check if it falls within a specified range (e.g., 1-100). Output whether the number is within the range or not.
+
+Exe:7
+BMI Calculator:
+Develop a program that calculates the Body Mass Index (BMI) based on user input for weight (in kilograms) and height (in meters). Classify the BMI according to standard categories (e.g., underweight, normal weight, overweight).
+
+Exe:8
+Discount Calculator:
+Ask the user to input the total purchase amount. Based on the total amount, calculate and output the discounted price according to the following rules:
+
+Exe:9
+10% discount for amounts between $100 and $200
+20% discount for amounts between $201 and $500
+30% discount for amounts over $500
+Quadratic Equation Solver:
+Write a program that takes coefficients (a, b, c) of a quadratic equation as input and outputs the roots (real or complex) of the equation using the quadratic formula.
+
+Ex:10
+Day of the Week:
+Prompt the user to enter a number (1-7) representing a day of the week. Output the corresponding day (e.g., 1 corresponds to Sunday, 2 to Monday, and so on).
